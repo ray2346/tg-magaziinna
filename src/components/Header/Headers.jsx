@@ -1,7 +1,7 @@
 import React from 'react';
 import Buttons from "../Buttons/Buttons";
 import {useTelegram} from "../hoocks/useTelegram";
-
+import '../Buttons/Buttons.css'
 
 const Headers = () => {
 
@@ -9,7 +9,7 @@ const Headers = () => {
 
     return (
         <div className={'header'}>
-            <Buttons onClick={onClose}>Закрыть!</Buttons>
+            <Buttons onClick={onClose}> Закрыть! </Buttons>
             <span className={'username'}>
                 {user?.username}
             </span>

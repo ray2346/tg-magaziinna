@@ -1,8 +1,8 @@
 import React, {useEffect, useState} from 'react';
-import './Form2.css'
+import './Form.css'
 import {useTelegram} from "../hoocks/useTelegram";
 
-const Form2 = () => {
+const Form = () => {
     const [country, setCountry] = useState();
     const [street, setStreet] = useState();
     const [city, setCity] = useState();
@@ -59,13 +59,13 @@ const Form2 = () => {
                 value={city}
                 onChange={onChangeCity}
             />
-            <select className={'select'} onChange={onChangeSubject}>
-                <option value={'physical'}>Юр. лицо</option>
-                <option value={'legal'}>Физ. лицо</option>
+            <select value={subject} onChange={onChangeSubject} className={'select'}>
+                <option value={'physical'}>Физ. лицо</option>
+                <option value={'legal'}>Юр. лицо</option>
             </select>
         </div>
 
     );
 };
 
-export default Form2;
+export default Form;
