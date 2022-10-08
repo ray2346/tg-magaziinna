@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d43948d0-ffc3-4c07-a9ca-5fbd920e23a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/ProductItem/ProductItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ProductItem/ProductItem.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Buttons/Buttons.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/Button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Buttons/Buttons.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/Button.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Form/Form.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Form/Form.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Form/Form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Form/Form.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Headers.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProductList/ProductList.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProductList/ProductList.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProductList/ProductList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProductList/ProductList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hoocks/useTelegram.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/useTelegram.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +65,15 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\шереметьево\JS\tg2022" />
+      <recent name="D:\шереметьево\JS\tg2022\src" />
       <recent name="D:\шереметьево\JS\tg2022\public" />
+      <recent name="D:\шереметьево\JS\tg2022" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -90,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665233864980</updated>
       <workItem from="1665233866216" duration="4484000" />
-      <workItem from="1665245075585" duration="12406000" />
+      <workItem from="1665245075585" duration="13925000" />
     </task>
     <task id="LOCAL-00001" summary="112452">
       <created>1665241496561</created>
@@ -183,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665261482971</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Guchhi kychi">
+      <created>1665262911154</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1665262911154</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,7 +251,8 @@
     <MESSAGE value="hoocks and toggles&#10;And Headers components&#10;and еще and eshe" />
     <MESSAGE value="Форму сделал и Продукт лист замутил ах да еще Роутеры с Роутес" />
     <MESSAGE value="Куча говна с состатусом 200 на бэке с нетфлифай ошибки бичи сраные" />
-    <option name="LAST_COMMIT_MESSAGE" value="Куча говна с состатусом 200 на бэке с нетфлифай ошибки бичи сраные" />
+    <MESSAGE value="Guchhi kychi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Guchhi kychi" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
