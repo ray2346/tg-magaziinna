@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d43948d0-ffc3-4c07-a9ca-5fbd920e23a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Button/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/Button.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665233864980</updated>
       <workItem from="1665233866216" duration="4484000" />
-      <workItem from="1665245075585" duration="15145000" />
+      <workItem from="1665245075585" duration="15211000" />
     </task>
     <task id="LOCAL-00001" summary="112452">
       <created>1665241496561</created>
@@ -206,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665265341622</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Заебало3">
+      <created>1665265805742</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1665265805742</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,7 +263,8 @@
     <MESSAGE value="Guchhi kychi" />
     <MESSAGE value="Заебало" />
     <MESSAGE value="Заебало2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Заебало2" />
+    <MESSAGE value="Заебало3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Заебало3" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
