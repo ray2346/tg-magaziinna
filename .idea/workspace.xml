@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d43948d0-ffc3-4c07-a9ca-5fbd920e23a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Form2/Form2.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Form/Form.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Form2/Form2.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Form/Form.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Headers.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Headers.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Form/Form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Form/Form.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665233864980</updated>
       <workItem from="1665233866216" duration="4484000" />
-      <workItem from="1665245075585" duration="11551000" />
+      <workItem from="1665245075585" duration="12406000" />
     </task>
     <task id="LOCAL-00001" summary="112452">
       <created>1665241496561</created>
@@ -181,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665259942129</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Куча говна с состатусом 200 на бэке с нетфлифай ошибки бичи сраные">
+      <created>1665261482971</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1665261482971</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,7 +230,8 @@
     <MESSAGE value="hoocks and toggles&#10;And Headers components&#10;and еще" />
     <MESSAGE value="hoocks and toggles&#10;And Headers components&#10;and еще and eshe" />
     <MESSAGE value="Форму сделал и Продукт лист замутил ах да еще Роутеры с Роутес" />
-    <option name="LAST_COMMIT_MESSAGE" value="Форму сделал и Продукт лист замутил ах да еще Роутеры с Роутес" />
+    <MESSAGE value="Куча говна с состатусом 200 на бэке с нетфлифай ошибки бичи сраные" />
+    <option name="LAST_COMMIT_MESSAGE" value="Куча говна с состатусом 200 на бэке с нетфлифай ошибки бичи сраные" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
