@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d43948d0-ffc3-4c07-a9ca-5fbd920e23a4" name="Default Changelist" comment="Ебнул Сервак 223">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d43948d0-ffc3-4c07-a9ca-5fbd920e23a4" name="Default Changelist" comment="Ебнул Сервак 225">
       <change beforePath="$PROJECT_DIR$/src/components/ProductList/ProductList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProductList/ProductList.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +89,7 @@
       <updated>1665233864980</updated>
       <workItem from="1665233866216" duration="4484000" />
       <workItem from="1665245075585" duration="15211000" />
-      <workItem from="1666958665613" duration="1563000" />
+      <workItem from="1666958665613" duration="1719000" />
     </task>
     <task id="LOCAL-00001" summary="112452">
       <created>1665241496561</created>
@@ -239,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666959289897</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Ебнул Сервак 225">
+      <created>1666960242735</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1666960242735</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,7 +299,8 @@
     <MESSAGE value="Заебало3" />
     <MESSAGE value="Ебнул Сервак" />
     <MESSAGE value="Ебнул Сервак 223" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ебнул Сервак 223" />
+    <MESSAGE value="Ебнул Сервак 225" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ебнул Сервак 225" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
